@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI_QuanLyKTX-master",
+    "\\WebAPI_QuanLyKTX-master\\packages",
+    "\\WebAPI_QuanLyKTX-master\\Web",
+    "\\WebAPI_QuanLyKTX-master\\Web\\APIs",
+    "\\WebAPI_QuanLyKTX-master\\Web\\Controllers",
+    "\\WebAPI_QuanLyKTX-master\\Web\\Middlewares"
+  ],
+  "SelectedNode": "\\WebAPI_QuanLyKTX-master\\Web\\Middlewares\\CheckUserSession.cs",
+  "PreviewInSolutionExplorer": false
+}
